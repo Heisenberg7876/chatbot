@@ -85,15 +85,6 @@ http://127.0.0.1:5000/
 3. Backend processes it (rule-based / logic-based)
 4. Response is returned and displayed
 
----
-
-## 🔮 Future Improvements
-
-- Integrate OpenAI / Gemini API
-- Add chat history
-- Improve UI (React / Tailwind)
-- Add authentication system
-- Deploy online (Render / Vercel)
 
 ---
 
@@ -105,8 +96,8 @@ MIT License
 ---
 
 ### 👨‍💻 Author
-**Abhijeet (Heisenberg7876)**
+**Abhijit Kulkarni (Heisenberg7876)**
 
-© 2026 All Rights Reserved
+© 2026 Abhijit Kulkarni · AbhijitAI All Rights Reserved
 
 
