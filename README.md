@@ -1,1 +1,99 @@
-# chatbot
+# Chatbot Web App
+
+A simple chatbot web application built using **Python (Flask)** and a basic HTML frontend.  
+This project demonstrates how to create a conversational interface between users and a backend server.
+
+---
+
+## 🚀 Features
+
+- 💬 Interactive chatbot interface
+- ⚡ Flask backend for handling requests
+- 🌐 Simple and clean frontend (HTML/CSS/JS)
+- 🔄 Real-time message exchange
+- 🧠 Easily extendable for AI/ML models
+
+---
+
+## 📁 Project Structure
+
+```
+chatbot/
+│── app.py
+│── templates/
+│   └── index.html
+│── README.md
+```
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Flask
+- HTML / CSS / JavaScript
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Heisenberg7876/chatbot.git
+cd chatbot
+```
+
+### 2. Create virtual environment (optional but recommended)
+```bash
+python -m venv venv
+venv\Scripts\activate   # Windows
+```
+
+### 3. Install dependencies
+```bash
+pip install flask
+```
+
+---
+
+## ▶️ Run the App
+
+```bash
+python app.py
+```
+
+Then open your browser:
+```
+http://127.0.0.1:5000/
+```
+
+---
+
+## 🧪 How It Works
+
+1. User enters a message in the frontend
+2. Message is sent to Flask backend
+3. Backend processes it (rule-based / logic-based)
+4. Response is returned and displayed
+
+---
+
+## 🔮 Future Improvements
+
+- Integrate OpenAI / Gemini API
+- Add chat history
+- Improve UI (React / Tailwind)
+- Add authentication system
+- Deploy online (Render / Vercel)
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repo and improve it!
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
