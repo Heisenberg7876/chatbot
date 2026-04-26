@@ -105,13 +105,20 @@ Feel free to fork this repo and improve it!
 
 ---
 
-## 📜 License
+---
 
-MIT License
+## 👨‍💻 Author
+
+<p align="center">
+  <b>Abhijeet (Heisenberg7876)</b><br>
+  Flask Developer • Chatbot Builder
+</p>
 
 ---
 
-### 👨‍💻 Author
-**Abhijit Kulkarni (Heisenberg7876)**
+<p align="center">
+  © 2026 Abhijeet. All rights reserved.
+</p>
 
-© 2026 All Rights Reserved
+
+
