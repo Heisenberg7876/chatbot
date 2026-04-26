@@ -1,4 +1,4 @@
-# Chatbot Web App
+# Flask Chatbot Web App
 
 A simple chatbot web application built using **Python (Flask)** and a basic HTML frontend.  
 This project demonstrates how to create a conversational interface between users and a backend server.
@@ -16,6 +16,7 @@ This project demonstrates how to create a conversational interface between users
 ---
 ## 📸 Preview
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/37f313b5-e23f-47da-8ecb-e1707d2706ad" />
+
 ---
 
 ## 📁 Project Structure
