@@ -40,6 +40,7 @@ chatbot/
 
 - Python
 - Flask
+- Ollama
 - HTML / CSS / JavaScript
 
 ---
