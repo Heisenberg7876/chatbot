@@ -103,6 +103,15 @@ Feel free to fork this repo and improve it!
 
 ---
 
+---
+
 ## 📜 License
 
-This project is open-source and available under the MIT License.
+MIT License
+
+---
+
+### 👨‍💻 Author
+**Abhijit Kulkarni (Heisenberg7876)**
+
+© 2026 All Rights Reserved
